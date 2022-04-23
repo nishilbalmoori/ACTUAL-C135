@@ -1,0 +1,21 @@
+#Body{
+    background-position:center;
+    background-size: cover;
+    text-align:center;
+}
+#Header{
+    width:100%;
+    height:45px;
+    font-size: 24px;
+    box-shadow: 5px 5px 35px rgb(50,50,50);
+}
+button{
+    margin-top:45px;
+    box-shadow: 5px 5px 35px rgb(50,50,50);
+}
+canvas{
+    margin-top:45px;
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    box-shadow: 5px 5px 35px rgb(50,50,50);
+}
